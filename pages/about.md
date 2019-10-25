@@ -7,7 +7,7 @@ title: 关于我
 
 该博客托管于 GitHub Page
 
-# 联系我
+**联系我**
 
 - Email : yewenjie@sjtu.edu.cn
 
