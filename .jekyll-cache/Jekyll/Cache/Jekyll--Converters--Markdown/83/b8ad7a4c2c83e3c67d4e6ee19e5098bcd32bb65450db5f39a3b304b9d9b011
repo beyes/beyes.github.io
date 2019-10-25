@@ -1,0 +1,260 @@
+I"�&<h1 id="标题">标题</h1>
+
+<h1 id="这里是-h1">这里是 h1</h1>
+
+<h2 id="这里是-h2">这里是 h2</h2>
+
+<h3 id="这里是-h3">这里是 h3</h3>
+
+<h4 id="这里是-h4">这里是 h4</h4>
+
+<h5 id="这里是-h5">这里是 h5</h5>
+
+<h6 id="这里是-h6">这里是 h6</h6>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># 这里是 h1
+## 这里是 h2
+### 这里是 h3
+#### 这里是 h4
+##### 这里是 h5
+###### 这里是 h6
+</code></pre></div></div>
+
+<h2 id="段落">段落</h2>
+
+<p>段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落</p>
+
+<p>段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落二段落</p>
+
+<h2 id="超链接">超链接</h2>
+
+<p><a href="http://blog.tmaize.net">TMaize Blog</a></p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[TMaize Blog](http://blog.tmaize.net)
+</code></pre></div></div>
+
+<h2 id="引用">引用</h2>
+
+<blockquote>
+  <p>这里是引用</p>
+</blockquote>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; 这里是引用
+</code></pre></div></div>
+
+<h2 id="常见字体样式">常见字体样式</h2>
+
+<p><em>斜体</em></p>
+
+<p><strong>粗体</strong></p>
+
+<p><del>删除线</del></p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>_斜体_
+**粗体**
+~~删除线~~
+</code></pre></div></div>
+
+<h2 id="列表">列表</h2>
+
+<ul>
+  <li>
+    <p>无序列表 1-1</p>
+
+    <p>缩进 2 空格</p>
+
+    <ul>
+      <li>缩进 2 空格</li>
+      <li>缩进 2 空格</li>
+    </ul>
+  </li>
+  <li>无序列表 1-2</li>
+  <li>无序列表 1-3</li>
+</ul>
+
+<ol>
+  <li>
+    <p>有序列表 1-1</p>
+
+    <p>缩进 3 空格</p>
+
+    <ol>
+      <li>缩进 3 空格</li>
+      <li>缩进 3 空格</li>
+    </ol>
+  </li>
+  <li>有序列表 1-2</li>
+  <li>有序列表 1-3</li>
+</ol>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- 无序列表 1-1
+
+  缩进 2 空格
+
+  - 缩进 2 空格
+  - 缩进 2 空格
+
+- 无序列表 1-2
+- 无序列表 1-3
+
+1. 有序列表 1-1
+
+   缩进 3 空格
+
+   1. 缩进 3 空格
+   2. 缩进 3 空格
+
+2. 有序列表 1-2
+3. 有序列表 1-3
+</code></pre></div></div>
+
+<h2 id="分割线">分割线</h2>
+
+<hr />
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+</code></pre></div></div>
+
+<h2 id="图片">图片</h2>
+
+<p><img src="001.jpg" alt="测试图片" /></p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>![测试图片](001.jpg)
+</code></pre></div></div>
+
+<h2 id="代码行">代码行</h2>
+
+<p>这是一段文字<code class="highlighter-rouge">rm -rf /*</code>这是一段文字</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>这是一段文字`rm -rf /*`这是一段文字
+</code></pre></div></div>
+
+<h2 id="代码块">代码块</h2>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">blog</span><span class="p">.</span><span class="nx">encodeHtml</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">html</span><span class="p">)</span> <span class="p">{</span>
+  <span class="kd">var</span> <span class="nx">o</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="dl">'</span><span class="s1">div</span><span class="dl">'</span><span class="p">)</span>
+  <span class="nx">o</span><span class="p">.</span><span class="nx">innerText</span> <span class="o">=</span> <span class="nx">html</span>
+  <span class="kd">var</span> <span class="nx">temp</span> <span class="o">=</span> <span class="nx">o</span><span class="p">.</span><span class="nx">innerHTML</span>
+  <span class="nx">o</span> <span class="o">=</span> <span class="kc">null</span>
+  <span class="k">return</span> <span class="nx">temp</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>```javascript
+blog.encodeHtml = function(html) {
+var o = document.createElement('div')
+o.innerText = html
+var temp = o.innerHTML
+o = null
+return temp
+}
+```
+</code></pre></div></div>
+
+<h2 id="表格测试">表格测试</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Tables</th>
+      <th style="text-align: center">Are</th>
+      <th style="text-align: right">Cool</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>col 3 is</td>
+      <td style="text-align: center">right-aligned</td>
+      <td style="text-align: right">$1600</td>
+    </tr>
+    <tr>
+      <td>col 2 is</td>
+      <td style="text-align: center">centered</td>
+      <td style="text-align: right">$12</td>
+    </tr>
+    <tr>
+      <td>zebra stripes</td>
+      <td style="text-align: center">are neat</td>
+      <td style="text-align: right">$1</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="language-md highlighter-rouge"><div class="highlight"><pre class="highlight"><code>| Tables        |      Are      |   Cool |
+| ------------- | :-----------: | -----: |
+| col 3 is      | right-aligned | <span class="se">\$</span>1600 |
+| col 2 is      |   centered    |   <span class="se">\$</span>12 |
+| zebra stripes |   are neat    |    <span class="se">\$</span>1 |
+</code></pre></div></div>
+
+<h2 id="数学公式">数学公式</h2>
+
+<p>需要在配置中开启</p>
+
+<p>这是一行话<code class="highlighter-rouge">\( \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15} \)</code>这是一行话</p>
+
+<p><code class="highlighter-rouge">\[ \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15} \]</code></p>
+
+<h2 id="插入-html">插入 html</h2>
+
+<div id="htmldemo"></div>
+<style>
+#htmldemo{
+    height: 30px;
+    width: 30px;
+    background-color: #00aa9a;
+    animation-name: moveX;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode : both;
+}
+@keyframes moveX {
+    0%{
+        transform: translateX(0px);
+    }
+    100%{
+        transform: translateX(100px);
+    }
+}
+</style>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">"htmldemo"</span><span class="nt">&gt;&lt;/div&gt;</span>
+<span class="nt">&lt;style&gt;</span>
+  <span class="nf">#htmldemo</span> <span class="p">{</span>
+    <span class="nl">height</span><span class="p">:</span> <span class="m">30px</span><span class="p">;</span>
+    <span class="nl">width</span><span class="p">:</span> <span class="m">30px</span><span class="p">;</span>
+    <span class="nl">background-color</span><span class="p">:</span> <span class="m">#00aa9a</span><span class="p">;</span>
+    <span class="nl">animation-name</span><span class="p">:</span> <span class="n">moveX</span><span class="p">;</span>
+    <span class="nl">animation-duration</span><span class="p">:</span> <span class="m">1s</span><span class="p">;</span>
+    <span class="nl">animation-timing-function</span><span class="p">:</span> <span class="n">linear</span><span class="p">;</span>
+    <span class="nl">animation-iteration-count</span><span class="p">:</span> <span class="n">infinite</span><span class="p">;</span>
+    <span class="nl">animation-direction</span><span class="p">:</span> <span class="n">alternate</span><span class="p">;</span>
+    <span class="nl">animation-fill-mode</span><span class="p">:</span> <span class="nb">both</span><span class="p">;</span>
+  <span class="p">}</span>
+  <span class="k">@keyframes</span> <span class="n">moveX</span> <span class="p">{</span>
+    <span class="nt">0</span><span class="o">%</span> <span class="p">{</span>
+      <span class="nl">transform</span><span class="p">:</span> <span class="n">translateX</span><span class="p">(</span><span class="m">0px</span><span class="p">);</span>
+    <span class="p">}</span>
+    <span class="nt">100</span><span class="o">%</span> <span class="p">{</span>
+      <span class="nl">transform</span><span class="p">:</span> <span class="n">translateX</span><span class="p">(</span><span class="m">100px</span><span class="p">);</span>
+    <span class="p">}</span>
+  <span class="p">}</span>
+<span class="nt">&lt;/style&gt;</span>
+</code></pre></div></div>
+
+<h2 id="插入-iframe">插入 iframe</h2>
+
+<iframe src="//music.163.com/outchain/player?type=2&amp;id=28445796&amp;auto=0&amp;height=66" frameborder="0" width="100%" height="86px"></iframe>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">&lt;!-- 属性什么的不要错了，最好用双引号括住 --&gt;</span>
+<span class="c">&lt;!-- 网易云的iframe需要做些调整，调整如下 --&gt;</span>
+<span class="nt">&lt;iframe</span>
+  <span class="na">src=</span><span class="s">"//music.163.com/outchain/player?type=2&amp;id=28445796&amp;auto=0&amp;height=66"</span>
+  <span class="na">frameborder=</span><span class="s">"0"</span>
+  <span class="na">width=</span><span class="s">"100%"</span>
+  <span class="na">height=</span><span class="s">"86px"</span>
+<span class="nt">&gt;&lt;/iframe&gt;</span>
+</code></pre></div></div>
+:ET
