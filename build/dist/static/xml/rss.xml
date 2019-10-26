@@ -5,21 +5,21 @@
     <link></link>
     <description>Wenjie 的个人博客</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 26 Oct 2019 12:47:42 +0100</pubDate>
-    <lastBuildDate>Sat, 26 Oct 2019 12:47:42 +0100</lastBuildDate>
+    <pubDate>Sat, 26 Oct 2019 20:38:13 +0100</pubDate>
+    <lastBuildDate>Sat, 26 Oct 2019 20:38:13 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     <atom:link href="/static/xml/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown 预览</title>
-      <link>/posts/2019/10/25/%E4%B8%BB%E9%A2%98%E9%A2%84%E8%A7%88.html</link>
-      <description>标题这里是h1这里是h2这里是h3这里是h4这里是h5这里是h6#这里是h1##这里是h2###这里是h3####这里是h4#####这里是h5######这里是h6段落段落一段落一段落一段落一段落一段落一段落一段落一段落一段落一段落...</description>
-      <pubDate>Fri, 25 Oct 2019 00:00:00 +0100</pubDate>
-      <gui>/posts/2019/10/25/%E4%B8%BB%E9%A2%98%E9%A2%84%E8%A7%88.html</gui>
+      <title>伦敦，有雨；心情，快乐</title>
+      <link>/posts/2019/10/26/%E4%BC%A6%E6%95%A6-%E6%9C%89%E9%9B%A8.html</link>
+      <description>女朋友已经在伦敦生活了4个周了，这个周末也比较清闲，睡的饱饱的，早上起来由于时差正好可以给上海的女朋友通一个视频电话，聊了聊很开心。说起我的小明子，我有好多债呢。我答应她要给她写一封长长的情书，到现在也没有开始动笔，当年夸下海口一方面...</description>
+      <pubDate>Sat, 26 Oct 2019 00:00:00 +0100</pubDate>
+      <gui>/posts/2019/10/26/%E4%BC%A6%E6%95%A6-%E6%9C%89%E9%9B%A8.html</gui>
     </item>
     <item>
       <title>Hello World!</title>
       <link>/posts/2019/10/25/hello-world.html</link>
-      <description>这是我的新Blog实在受不了Mac上的Python版本管理，重新用Ruby建立了新博客，由于我自己建立了Github的图床，我想以后写博客的管理会更加容易。插一张图看一下测试一下数学公式</description>
+      <description>这是我的新Blog实在受不了Mac上的Python版本管理，重新用Ruby建立了新博客，由于我自己建立了Github的图床，我想以后写博客附件的管理会更加容易，感谢友链的Blog模版让我可以节省很多设计主页的时间.插一张图看一下测试一...</description>
       <pubDate>Fri, 25 Oct 2019 00:00:00 +0100</pubDate>
       <gui>/posts/2019/10/25/hello-world.html</gui>
     </item>

@@ -1,0 +1,29 @@
+I"�<p>这是我的新 Blog 实在受不了 Mac 上的 Python 版本管理，重新用 Ruby 建立了新博客，由于我自己建立了 Github 的图床，我想以后写博客附件的管理会更加容易，感谢友链的 Blog 模版让我可以节省很多设计主页的时间.</p>
+
+<p>插一张图看一下</p>
+
+<p><img src="https://raw.githubusercontent.com/beyes/Picture/master/img/logo.jpg" alt="logo.jpg" /></p>
+
+<p>测试一下数学公式</p>
+
+<script type="math/tex; mode=display">a^2+b^2=c^2</script>
+
+<p>再测试一下表格就好了</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>a</th>
+      <th>b</th>
+      <th>c</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>156677</td>
+      <td>2</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
+:ET
