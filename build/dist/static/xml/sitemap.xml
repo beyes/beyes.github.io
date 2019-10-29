@@ -2,49 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>/</loc>
-  <lastmod>2019-10-26</lastmod>
+  <lastmod>2019-10-29</lastmod>
   <changefreq>weekly</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>/pages/categories.html</loc>
-  <lastmod>2019-10-26</lastmod>
+  <lastmod>2019-10-29</lastmod>
   <changefreq>weekly</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>/pages/search.html</loc>
-  <lastmod>2019-10-26</lastmod>
+  <lastmod>2019-10-29</lastmod>
   <changefreq>weekly</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>/pages/links.html</loc>
-  <lastmod>2019-10-26</lastmod>
+  <lastmod>2019-10-29</lastmod>
   <changefreq>weekly</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>/pages/chat.html</loc>
-  <lastmod>2019-10-26</lastmod>
+  <lastmod>2019-10-29</lastmod>
   <changefreq>weekly</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>/pages/about.html</loc>
-  <lastmod>2019-10-26</lastmod>
+  <lastmod>2019-10-29</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>/posts/2019/10/29/%E5%AF%B9%E5%81%B6-%E5%B5%8C%E5%85%A5.html</loc>
+  <lastmod>2019-10-29</lastmod>
   <changefreq>weekly</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>/posts/2019/10/26/%E4%BC%A6%E6%95%A6-%E6%9C%89%E9%9B%A8.html</loc>
-  <lastmod>2019-10-26</lastmod>
+  <lastmod>2019-10-29</lastmod>
   <changefreq>weekly</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
   <loc>/posts/2019/10/25/hello-world.html</loc>
-  <lastmod>2019-10-26</lastmod>
+  <lastmod>2019-10-29</lastmod>
   <changefreq>weekly</changefreq>
   <priority>1.0</priority>
 </url>
