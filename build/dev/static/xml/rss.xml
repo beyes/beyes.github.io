@@ -5,10 +5,17 @@
     <link></link>
     <description>Wenjie 的个人博客</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 26 Oct 2019 23:12:51 +0100</pubDate>
-    <lastBuildDate>Sat, 26 Oct 2019 23:12:51 +0100</lastBuildDate>
+    <pubDate>Tue, 29 Oct 2019 14:36:35 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Oct 2019 14:36:35 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     <atom:link href="/static/xml/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>对偶</title>
+      <link>/posts/2019/10/29/%E5%AF%B9%E5%81%B6-%E5%B5%8C%E5%85%A5.html</link>
+      <description>对偶之前理解对偶一般是把两个对偶的东西通过内积联系起来，类似于$\langleu,v\rangle$，但事实上可以有更一般的对偶，i.e.另外谈到对偶一般是对线性方程而言的，对偶关系通过$\langleu,v\rangle$得到，在新...</description>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <gui>/posts/2019/10/29/%E5%AF%B9%E5%81%B6-%E5%B5%8C%E5%85%A5.html</gui>
+    </item>
     <item>
       <title>伦敦，有雨；心情，快乐</title>
       <link>/posts/2019/10/26/%E4%BC%A6%E6%95%A6-%E6%9C%89%E9%9B%A8.html</link>
