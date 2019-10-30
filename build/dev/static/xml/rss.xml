@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wenjie's Blog</title>
-    <link></link>
+    <link>https://beyes.github.io</link>
     <description>Wenjie 的个人博客</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 30 Oct 2019 21:14:28 +0000</pubDate>
-    <lastBuildDate>Wed, 30 Oct 2019 21:14:28 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Oct 2019 21:30:17 +0000</pubDate>
+    <lastBuildDate>Wed, 30 Oct 2019 21:30:17 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
-    <atom:link href="/static/xml/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://beyes.github.io/static/xml/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>天晴，任务重</title>
-      <link>/posts/2019/10/30/%E8%AE%BA%E6%96%87.html</link>
+      <link>https://beyes.github.io/posts/2019/10/30/%E8%AE%BA%E6%96%87.html</link>
       <description>旧题目之前已经写了一篇论文的初稿，现在重新读来发现问题依旧不少，甚至有一个很关键的点没有说明，今天解答李老师留的问题，我有一些体会，感觉要回到最初的起点，回到最初的问题，再重新来看待这个旧问题，也许会有突破，李老师给了我很多新的想法，...</description>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      <gui>/posts/2019/10/30/%E8%AE%BA%E6%96%87.html</gui>
+      <gui>https://beyes.github.io/posts/2019/10/30/%E8%AE%BA%E6%96%87.html</gui>
     </item>
     <item>
       <title>对偶</title>
-      <link>/posts/2019/10/29/%E5%AF%B9%E5%81%B6-%E5%B5%8C%E5%85%A5.html</link>
+      <link>https://beyes.github.io/posts/2019/10/29/%E5%AF%B9%E5%81%B6-%E5%B5%8C%E5%85%A5.html</link>
       <description>对偶之前理解对偶一般是把两个对偶的东西通过内积联系起来，类似于$\langleu,v\rangle$，但事实上可以有更一般的对偶，i.e.另外谈到对偶一般是对线性方程而言的，对偶关系通过$\langleu,v\rangle$得到，在新...</description>
       <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
-      <gui>/posts/2019/10/29/%E5%AF%B9%E5%81%B6-%E5%B5%8C%E5%85%A5.html</gui>
+      <gui>https://beyes.github.io/posts/2019/10/29/%E5%AF%B9%E5%81%B6-%E5%B5%8C%E5%85%A5.html</gui>
     </item>
     <item>
       <title>伦敦，有雨；心情，快乐</title>
-      <link>/posts/2019/10/26/%E4%BC%A6%E6%95%A6-%E6%9C%89%E9%9B%A8.html</link>
+      <link>https://beyes.github.io/posts/2019/10/26/%E4%BC%A6%E6%95%A6-%E6%9C%89%E9%9B%A8.html</link>
       <description>女朋友已经在伦敦生活了4个周了，这个周末也比较清闲，睡的饱饱的，早上起来由于时差正好可以给上海的女朋友通一个视频电话，聊了聊很开心。说起我的小明子，我有好多债呢。我答应她要给她写一封长长的情书，到现在也没有开始动笔，当年夸下海口一方面...</description>
       <pubDate>Sat, 26 Oct 2019 00:00:00 +0100</pubDate>
-      <gui>/posts/2019/10/26/%E4%BC%A6%E6%95%A6-%E6%9C%89%E9%9B%A8.html</gui>
+      <gui>https://beyes.github.io/posts/2019/10/26/%E4%BC%A6%E6%95%A6-%E6%9C%89%E9%9B%A8.html</gui>
     </item>
     <item>
       <title>Hello World!</title>
-      <link>/posts/2019/10/25/hello-world.html</link>
+      <link>https://beyes.github.io/posts/2019/10/25/hello-world.html</link>
       <description>这是我的新Blog实在受不了Mac上的Python版本管理，重新用Ruby建立了新博客，由于我自己建立了Github的图床，我想以后写博客附件的管理会更加容易，感谢友链的Blog模版让我可以节省很多设计主页的时间.插一张图看一下测试一...</description>
       <pubDate>Fri, 25 Oct 2019 00:00:00 +0100</pubDate>
-      <gui>/posts/2019/10/25/hello-world.html</gui>
+      <gui>https://beyes.github.io/posts/2019/10/25/hello-world.html</gui>
     </item>
   </channel>
 </rss>
