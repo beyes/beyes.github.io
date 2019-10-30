@@ -5,10 +5,17 @@
     <link></link>
     <description>Wenjie 的个人博客</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 29 Oct 2019 14:36:35 +0000</pubDate>
-    <lastBuildDate>Tue, 29 Oct 2019 14:36:35 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Oct 2019 20:51:04 +0000</pubDate>
+    <lastBuildDate>Wed, 30 Oct 2019 20:51:04 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     <atom:link href="/static/xml/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>天晴，任务重</title>
+      <link>/posts/2019/10/30/%E8%AE%BA%E6%96%87.html</link>
+      <description>旧题目之前已经写了一篇论文的初稿，现在重新读来发现问题依旧不少，甚至有一个很关键的点没有说明，今天解答李老师留的问题，我有一些体会，感觉要回到最初的起点，回到最初的问题，再重新来看待这个旧问题，也许会有突破，李老师给了我很多新的想法，...</description>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <gui>/posts/2019/10/30/%E8%AE%BA%E6%96%87.html</gui>
+    </item>
     <item>
       <title>对偶</title>
       <link>/posts/2019/10/29/%E5%AF%B9%E5%81%B6-%E5%B5%8C%E5%85%A5.html</link>
