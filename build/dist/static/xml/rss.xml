@@ -5,23 +5,23 @@
     <link>https://beyes.github.io</link>
     <description>Wenjie 的个人博客</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 30 Oct 2019 21:30:13 +0000</pubDate>
-    <lastBuildDate>Wed, 30 Oct 2019 21:30:13 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Nov 2019 11:34:00 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Nov 2019 11:34:00 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     <atom:link href="https://beyes.github.io/static/xml/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>暖水袋引发的思考</title>
+      <link>https://beyes.github.io/posts/2019/11/01/%E6%9A%96%E6%B0%B4%E8%A2%8B%E5%BC%95%E5%8F%91%E7%9A%84%E6%80%9D%E8%80%83.html</link>
+      <description>暖水袋来伦敦的时候怕这里冷,所以就带了暖水袋过来暖被窝,暖脚.可是晚上把腿放在上面睡着了之后竟然给我腿上烫了个大水泡,但是把我吓了一跳,觉得很不可思议.暖水袋摸着并不烫手,因为上面有一层绒毛的隔温层.但事实上尽管我是在道上热水半个多小...</description>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <gui>https://beyes.github.io/posts/2019/11/01/%E6%9A%96%E6%B0%B4%E8%A2%8B%E5%BC%95%E5%8F%91%E7%9A%84%E6%80%9D%E8%80%83.html</gui>
+    </item>
     <item>
       <title>天晴，任务重</title>
       <link>https://beyes.github.io/posts/2019/10/30/%E8%AE%BA%E6%96%87.html</link>
       <description>旧题目之前已经写了一篇论文的初稿，现在重新读来发现问题依旧不少，甚至有一个很关键的点没有说明，今天解答李老师留的问题，我有一些体会，感觉要回到最初的起点，回到最初的问题，再重新来看待这个旧问题，也许会有突破，李老师给了我很多新的想法，...</description>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       <gui>https://beyes.github.io/posts/2019/10/30/%E8%AE%BA%E6%96%87.html</gui>
-    </item>
-    <item>
-      <title>对偶</title>
-      <link>https://beyes.github.io/posts/2019/10/29/%E5%AF%B9%E5%81%B6-%E5%B5%8C%E5%85%A5.html</link>
-      <description>对偶之前理解对偶一般是把两个对偶的东西通过内积联系起来，类似于$\langleu,v\rangle$，但事实上可以有更一般的对偶，i.e.另外谈到对偶一般是对线性方程而言的，对偶关系通过$\langleu,v\rangle$得到，在新...</description>
-      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
-      <gui>https://beyes.github.io/posts/2019/10/29/%E5%AF%B9%E5%81%B6-%E5%B5%8C%E5%85%A5.html</gui>
     </item>
     <item>
       <title>伦敦，有雨；心情，快乐</title>
